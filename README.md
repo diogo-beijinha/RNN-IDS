@@ -1,5 +1,8 @@
 # RNN-IDS
-This is a project I developed during an ERASMUS+ Internship, where I had to develop an Intrusion Detection Model, for the first time, in Tensorflow and then convert it to Tensorflow Lite.
+This is a project I developed during an ERASMUS+ Internship.
+For this project I had to develop an Intrusion Detection Model in Tensorflow and then convert it to Tensorflow Lite.
+
+**Note: This was my first time developing a Machine Learning model and training it so its accuracy is not great, neither is the logic.**
 
 
 ## Create Dataset for Lite Testing
